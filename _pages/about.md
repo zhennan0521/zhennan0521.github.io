@@ -41,6 +41,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 
 <span class='anchor' id='news'></span>
 # News
+- *2026.01* [Kimi K2.5](https://www.kimi.com/blog/kimi-k2-5.html) released as <span style="color:red;">the most powerful open-source visual agentic model</span>, featuring native multimodal intelligence and Agent Swarm.
 - *2025.09* [OpenCUA](https://opencua.xlang.ai/) recognized with a <span style="color:red;">Spotlight at NeurIPS 2025</span>.
 - *2025.07* [OSWorld-Verified](https://xlang.ai/blog/osworld-verified) launched  <span style="color:red;">verified OSWorld evaluation suite</span>, delivering more reliable infrastructure and task quality.
 - *2025.03* Joined <a href="https://www.moonshot.ai/" style="color:red;">Moonshot AI</a> (<a href="https://www.kimi.com/en/" style="color:red;">Kimi</a>) to develop RL pipelines for advanced computer-use agents.
@@ -49,6 +50,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 
 <span class='anchor' id='publications'></span>
 # Publications & Preprints
+- **[Kimi K2.5: Visual Agentic Intelligence.](https://arxiv.org/abs/2602.02276)** Kimi Team. *<span style="color: red;">arXiv 2026</span>.*
 - **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials.](https://openreview.net/forum?id=EEgYUccwsV)** \* Yiheng Xu, \* Dunjie Lu, \* **Zhennan Shen (Co-Lead)**, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu. *<span style="color: red;">ICLR 2025 (Spotlight)</span>.* 
 - **[OpenCUA: Open Foundations for Computer-Use Agents.](https://opencua.xlang.ai/)** Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi Deng, Xiaole Guo, Yiheng Xu, Chen Henry Wu, **Zhennan Shen**, et al. *<span style="color: red;">NeurIPS 2025 (Spotlight)</span>.* 
 - **[OSWorld-Verified: Reliable Evaluation for Computer-Use Agents.](https://xlang.ai/blog/osworld-verified)** Tianbao Xie, Mengqi Yuan, Danyang Zhang, Xinzhuang Xiong, **Zhennan Shen**, Zilong Zhou, Xinyuan Wang, Yanxu Chen, Jiaqi Deng, Junda Chen, Bowen Wang, Haoyuan Wu, Jixuan Chen, Junli Wang, Dunjie Lu, Hao Hu, Tao Yu. *<span style="color: red;">Follow-up to the original [OSWorld](https://os-world.github.io/) unveiled at NeurIPS 2024</span>.*
