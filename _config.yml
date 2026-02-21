@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhennan Shen"
-  avatar           : "images/Zhennan Shen-512x512.png"
-  bio              : "Agentic RL researcher in Moonshot AI@Kimi (Focused on Computer-Use-Agent) \n & 26Fall CS PhD applicant."
+  avatar           : "images/Zhennan.jpg"
+  bio              : "Agentic RL researcher @ JD.com Pretraining Team \n HKUST 26Fall CS PhD incoming (advised by Prof. May Fung)"
   location         : "Beijing, China"
-  employer         : "Moonshot AI (Kimi)"
+  employer         : "JD.com"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JPwg5MwAAAAJ"
   email            : "1641225799szn@gmail.com"

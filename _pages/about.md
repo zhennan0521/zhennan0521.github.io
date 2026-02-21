@@ -82,3 +82,14 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 - Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (2021–2024).
 - University-Level Scholarship (2022，2023).
 
+<span class='anchor' id='affiliations'></span>
+# Affiliations
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; padding: 20px 0;">
+  <a href="https://hkust.edu.hk/" target="_blank"><img src="{{ '/images/logos/hkust.svg' | relative_url }}" alt="HKUST" style="height: 80px;"></a>
+  <a href="https://www.sjtu.edu.cn/" target="_blank"><img src="{{ '/images/logos/sjtu.png' | relative_url }}" alt="SJTU" style="height: 80px;"></a>
+  <a href="https://www.hku.hk/" target="_blank"><img src="{{ '/images/logos/hku.jpg' | relative_url }}" alt="HKU" style="height: 80px;"></a>
+  <a href="https://www.kimi.com/en/" target="_blank"><img src="{{ '/images/logos/kimi.png' | relative_url }}" alt="Moonshot AI / Kimi" style="height: 80px;"></a>
+  <a href="https://corporate.jd.com/" target="_blank"><img src="{{ '/images/logos/JD.png' | relative_url }}" alt="JD.com" style="height: 80px;"></a>
+</div>
+
