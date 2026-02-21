@@ -17,11 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025 (Outstanding Graduate; Zhiyuan Honors Program). My research focuses on **language-model agents** and **agentic reinforcement learning** (Especially on computer-use-agent). 
+I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents** and **agentic reinforcement learning** (especially on computer-use agents). I will join [HKUST](https://hkust.edu.hk/) as a Ph.D. student in Fall 2026, advised by [Prof. May Fung](https://mayrfung.github.io/).
 
-I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). I currently work on RL and SFT initiatives at  <span style="font-size: 1.1em; font-weight: bold;">**[Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/))**</span>, supporting large-scale agent training pipelines. 
+I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects on large-scale agent training pipelines. I currently work at <span style="font-size: 1.1em; font-weight: bold;">**[JD.com](https://corporate.jd.com/)**</span> on the pretraining team, focusing on agent data synthesis and capability improvement.
 
- <span style="font-size: 1.2em; font-weight: bold; color: red">I am actively seeking PhD opportunities starting in Fall 2026; if you are interested in my work, please feel free to contact me.</span>
 
 **Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
 
@@ -62,6 +61,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 # Experience
 
 ## Education
+- *The Hong Kong University of Science and Technology (HKUST)*, Ph.D. Student, Fall 2026 (Expected), Hong Kong, China (Advisor: [Prof. May Fung](https://mayrfung.github.io/))
 - *Shanghai Jiao Tong University*, B.E. in Computer Science and Engineering (Zhiyuan Honors Program), Sep 2021 – Jun 2025, Shanghai, China. GPA 3.9/4.3 (22/127). Outstanding Graduate; Zhiyuan Honors Scholarship (2021–2023).
 
 ## Research
@@ -71,8 +71,10 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
   Developed MobileEnv benchmark and scientific LLM agents including SciDFM and SciEval for AI4Science reasoning.
 
 ## Industry
-- [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), Agent Training Intern, Mar 2025 – Present, Beijing, China  
-  Design reinforcement learning workflows for GUI-centric computer-use agents; scale SFT + RLHF data pipelines with quantitative and qualitative evaluation; optimize automation for large-scale agent training and deployment.
+- [JD.com](https://corporate.jd.com/), Pretraining Team, Dec 2025 – Present, Beijing, China  
+  Agent data synthesis and capability improvement for large-scale pretraining.
+- [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), Agent Training Intern, Mar 2025 – Dec 2025, Beijing, China  
+  Contributed to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects; designed RL workflows for GUI-centric computer-use agents; scaled SFT + RLHF data pipelines with quantitative and qualitative evaluation.
 
 <span class='anchor' id='honors'></span>
 # Honors & Awards
