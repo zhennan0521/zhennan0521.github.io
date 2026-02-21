@@ -17,63 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents** and **agentic reinforcement learning** (especially on computer-use agents). I will join [HKUST](https://hkust.edu.hk/) as a Ph.D. student in Fall 2026, advised by [Prof. May Fung](https://mayrfung.github.io/).
+I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents** and **agentic reinforcement learning**. I will join [HKUST](https://hkust.edu.hk/) as a Ph.D. student in Fall 2026, advised by [Prof. May Fung](https://mayrfung.github.io/).
 
-I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects on large-scale agent training pipelines. I currently work at <span style="font-size: 1.1em; font-weight: bold;">**[JD.com](https://corporate.jd.com/)**</span> on the pretraining team, focusing on agent data synthesis and capability improvement.
+I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects on large-scale agent training pipelines. I currently work at **[JD.com](https://corporate.jd.com/)** on the pretraining team, focusing on agent data synthesis and capability improvement.
 
-
-**Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
-
-
+**Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [X](https://x.com/ZShen0521) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
 
 <span class='anchor' id='news'></span>
 # News
-- *2026.01* [Kimi K2.5](https://www.kimi.com/blog/kimi-k2-5.html) released as <span style="color:red;">the most powerful open-source visual agentic model</span>, featuring native multimodal intelligence and Agent Swarm.
-- *2025.09* [OpenCUA](https://opencua.xlang.ai/) recognized with a <span style="color:red;">Spotlight at NeurIPS 2025</span>.
-- *2025.07* [OSWorld-Verified](https://xlang.ai/blog/osworld-verified) launched  <span style="color:red;">verified OSWorld evaluation suite</span>, delivering more reliable infrastructure and task quality.
-- *2025.03* Joined <a href="https://www.moonshot.ai/">Moonshot AI</a> (<a href="https://www.kimi.com/en/">Kimi</a>) to develop RL pipelines for advanced computer-use agents.
-- *2025.01* [AgentTrek](https://agenttrek.github.io/) selected as a <span style="color:red;">Spotlight paper at ICLR 2025</span>.
+
+<ul class="news-list">
+  <li class="news-item">
+    <span class="news-date">2026.01</span>
+    <a href="https://www.kimi.com/blog/kimi-k2-5.html">Kimi K2.5</a> released as the most powerful open-source visual agentic model, featuring native multimodal intelligence and Agent Swarm.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.09</span>
+    <a href="https://opencua.xlang.ai/">OpenCUA</a> recognized as a <span class="venue-tag">Spotlight at NeurIPS 2025</span>.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.07</span>
+    <a href="https://xlang.ai/blog/osworld-verified">OSWorld-Verified</a> launched the verified OSWorld evaluation suite, delivering more reliable infrastructure and task quality.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.03</span>
+    Joined <a href="https://www.moonshot.ai/">Moonshot AI</a> (<a href="https://www.kimi.com/en/">Kimi</a>) to develop RL pipelines for advanced computer-use agents.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.01</span>
+    <a href="https://agenttrek.github.io/">AgentTrek</a> selected as a <span class="venue-tag">Spotlight at ICLR 2025</span>.
+  </li>
+</ul>
 
 <span class='anchor' id='publications'></span>
 # Publications & Preprints (Selected)
-- **[Kimi K2.5: Visual Agentic Intelligence.](https://arxiv.org/abs/2602.02276)** Kimi Team. *<span style="color: red;">arXiv 2026</span>.*
-- **[AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials.](https://openreview.net/forum?id=EEgYUccwsV)** \* Yiheng Xu, \* Dunjie Lu, \* **Zhennan Shen (Co-Lead)**, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu. *<span style="color: red;">ICLR 2025 (Spotlight)</span>.* 
-- **[OpenCUA: Open Foundations for Computer-Use Agents.](https://opencua.xlang.ai/)** Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi Deng, Xiaole Guo, Yiheng Xu, Chen Henry Wu, **Zhennan Shen**, et al. *<span style="color: red;">NeurIPS 2025 (Spotlight)</span>.* 
-- **[OSWorld-Verified: Reliable Evaluation for Computer-Use Agents.](https://xlang.ai/blog/osworld-verified)** Tianbao Xie, Mengqi Yuan, Danyang Zhang, Xinzhuang Xiong, **Zhennan Shen**, Zilong Zhou, Xinyuan Wang, Yanxu Chen, Jiaqi Deng, Junda Chen, Bowen Wang, Haoyuan Wu, Jixuan Chen, Junli Wang, Dunjie Lu, Hao Hu, Tao Yu. *<span style="color: red;">Follow-up to the original [OSWorld](https://os-world.github.io/) unveiled at NeurIPS 2024</span>.*
+
+<div class="publication-item">
+<p><strong><a href="https://arxiv.org/abs/2602.02276">Kimi K2.5: Visual Agentic Intelligence.</a></strong> Kimi Team. <span class="venue-tag">arXiv 2026</span></p>
+</div>
+
+<div class="publication-item">
+<p><strong><a href="https://openreview.net/forum?id=EEgYUccwsV">AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials.</a></strong> * Yiheng Xu, * Dunjie Lu, * <strong>Zhennan Shen (Co-Lead)</strong>, Junli Wang, Zekun Wang, Yuchen Mao, Caiming Xiong, Tao Yu. <span class="venue-tag">ICLR 2025 (Spotlight)</span></p>
+</div>
+
+<div class="publication-item">
+<p><strong><a href="https://opencua.xlang.ai/">OpenCUA: Open Foundations for Computer-Use Agents.</a></strong> Xinyuan Wang, Bowen Wang, Dunjie Lu, Junlin Yang, Tianbao Xie, Junli Wang, Jiaqi Deng, Xiaole Guo, Yiheng Xu, Chen Henry Wu, <strong>Zhennan Shen</strong>, et al. <span class="venue-tag">NeurIPS 2025 (Spotlight)</span></p>
+</div>
+
+<div class="publication-item">
+<p><strong><a href="https://xlang.ai/blog/osworld-verified">OSWorld-Verified: Reliable Evaluation for Computer-Use Agents.</a></strong> Tianbao Xie, Mengqi Yuan, Danyang Zhang, Xinzhuang Xiong, <strong>Zhennan Shen</strong>, Zilong Zhou, Xinyuan Wang, Yanxu Chen, Jiaqi Deng, Junda Chen, Bowen Wang, Haoyuan Wu, Jixuan Chen, Junli Wang, Dunjie Lu, Hao Hu, Tao Yu. <span class="venue-tag">Follow-up to <a href="https://os-world.github.io/">OSWorld</a> (NeurIPS 2024)</span></p>
+</div>
 
 <span class='anchor' id='experience'></span>
 # Experience
 
 ## Education
-- *The Hong Kong University of Science and Technology (HKUST)*, Ph.D. Student, Fall 2026 (Expected), Hong Kong, China (Advisor: [Prof. May Fung](https://mayrfung.github.io/))
-- *Shanghai Jiao Tong University*, B.E. in Computer Science and Engineering (Zhiyuan Honors Program), Sep 2021 – Jun 2025, Shanghai, China.
+- *The Hong Kong University of Science and Technology*, Ph.D. Student, Fall 2026 (Expected), Hong Kong, China.
+- *Shanghai Jiao Tong University*, B.E. in Computer Science and Engineering, Sep 2021 – Jun 2025, Shanghai, China.
 
 ## Research
 - *[HKU NLP Group](https://hkunlp.github.io/)*, Research Intern, Jul 2024 – Sep 2024, Hong Kong, China (Advisor: [Prof. Tao Yu](https://taoyds.github.io/))  
-  Built LLM-based GUI agent pipelines and large-scale data synthesis workflows; co-led AgentTrek and contributed to OpenCUA.
+
 - *[X-LANCE Lab, SJTU](https://x-lance.github.io/)*, Research Intern, Jul 2023 – Jul 2024, Shanghai, China (Advisors: [Prof. Lu Chen](https://coai-sjtu.github.io/) & [Prof. Kai Yu](https://x-lance.github.io/kaiyu/))  
-  Developed MobileEnv benchmark and scientific LLM agents including SciDFM and SciEval for AI4Science reasoning.
 
 ## Industry
 - [JD.com](https://corporate.jd.com/), Pretraining Team, Dec 2025 – Present, Beijing, China  
-  Agent data synthesis and capability improvement for large-scale pretraining.
 - [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), Agent Training Intern, Mar 2025 – Dec 2025, Beijing, China  
-  Contributed to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects; designed RL workflows for GUI-centric computer-use agents; scaled SFT + RLHF data pipelines with quantitative and qualitative evaluation.
+  *Contributed to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects.
 
 <span class='anchor' id='honors'></span>
 # Honors & Awards
 - Outstanding Graduate, Zhiyuan Honors Program (2025).
 - Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (2021–2024).
-- University-Level Scholarship (2022，2023).
+- University-Level Scholarship (2022, 2023).
 
 <span class='anchor' id='affiliations'></span>
 # Affiliations
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; padding: 20px 0;">
-  <a href="https://hkust.edu.hk/" target="_blank"><img src="{{ '/images/logos/hkust.svg' | relative_url }}" alt="HKUST" style="height: 80px;"></a>
-  <a href="https://www.sjtu.edu.cn/" target="_blank"><img src="{{ '/images/logos/sjtu.png' | relative_url }}" alt="SJTU" style="height: 80px;"></a>
-  <a href="https://www.hku.hk/" target="_blank"><img src="{{ '/images/logos/hku.jpg' | relative_url }}" alt="HKU" style="height: 80px;"></a>
-  <a href="https://www.kimi.com/en/" target="_blank"><img src="{{ '/images/logos/kimi.png' | relative_url }}" alt="Moonshot AI / Kimi" style="height: 80px;"></a>
-  <a href="https://corporate.jd.com/" target="_blank"><img src="{{ '/images/logos/JD.png' | relative_url }}" alt="JD.com" style="height: 80px;"></a>
+<div class="affiliations-logos">
+  <a href="https://hkust.edu.hk/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/hkust.svg' | relative_url }}" alt="HKUST"></a>
+  <a href="https://www.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/sjtu.png' | relative_url }}" alt="SJTU"></a>
+  <a href="https://www.hku.hk/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/hku.jpg' | relative_url }}" alt="HKU"></a>
+  <a href="https://www.kimi.com/en/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/kimi.png' | relative_url }}" alt="Moonshot AI / Kimi"></a>
+  <a href="https://corporate.jd.com/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/JD.png' | relative_url }}" alt="JD.com"></a>
 </div>
-
