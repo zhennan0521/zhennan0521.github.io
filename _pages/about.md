@@ -28,8 +28,20 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 
 <ul class="news-list">
   <li class="news-item">
+    <span class="news-date">2026.09</span>
+    Started my Ph.D. in Computer Science and Engineering at <a href="https://hkust.edu.hk/">HKUST</a>, advised by <a href="https://mayrfung.github.io/">Prof. May Fung</a>.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2026.06</span>
+    Joined <a href="https://www.minimax.io/">MiniMax</a> as a research intern, working on post-training for long-horizon coding agents.
+  </li>
+  <li class="news-item">
     <span class="news-date">2026.01</span>
     <a href="https://www.kimi.com/blog/kimi-k2-5.html">Kimi K2.5</a> released as the most powerful open-source visual agentic model, featuring native multimodal intelligence and Agent Swarm.
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.12</span>
+    Joined <a href="https://corporate.jd.com/">JD.com</a> (JoyAI) to work on mid-training data synthesis for general and coding agents.
   </li>
   <li class="news-item">
     <span class="news-date">2025.09</span>
