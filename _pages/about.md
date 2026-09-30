@@ -21,7 +21,7 @@ I am Zhennan Shen, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/),
 
 I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the K-series models. I am currently a research intern at [MiniMax](https://www.minimax.io/), working on post-training for long-horizon coding agents.
 
-**Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [X](https://x.com/ZShen0521) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
+**Contact:** 1641225799szn@gmail.com or zshenbl@connect.ust.hk · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [X](https://x.com/ZShen0521) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
 
 <span class='anchor' id='news'></span>
 # News
@@ -102,6 +102,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 
 <span class='anchor' id='honors'></span>
 # Honors & Awards
+- Tang Xiao'ou Scholarship, The Hong Kong University of Science and Technology.
 - Outstanding Graduate, Zhiyuan Honors Program (2025).
 - Zhiyuan Honors Scholarship, Shanghai Jiao Tong University (2021–2024).
 - University-Level Scholarship (2022, 2023).
@@ -115,4 +116,5 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
   <a href="https://www.hku.hk/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/hku.jpg' | relative_url }}" alt="HKU"></a>
   <a href="https://www.kimi.com/en/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/kimi.png' | relative_url }}" alt="Moonshot AI / Kimi"></a>
   <a href="https://corporate.jd.com/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/JD.png' | relative_url }}" alt="JD.com"></a>
+  <a href="https://www.minimax.io/" target="_blank" rel="noopener noreferrer"><img src="{{ '/images/logos/minimax.png' | relative_url }}" alt="MiniMax"></a>
 </div>
