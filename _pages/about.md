@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen. I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents** and **agentic reinforcement learning**. I will join [HKUST](https://hkust.edu.hk/) as a Ph.D. student in Fall 2026, advised by [Prof. May Fung](https://mayrfung.github.io/).
+I am Zhennan Shen, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/), advised by [Prof. May Fung](https://mayrfung.github.io/). Before that, I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents**.
 
-I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) and [Prof. Kai Yu](https://x-lance.github.io/kaiyu/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects. I currently work at **[JD.com](https://corporate.jd.com/)** on the pretraining team.
+I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the K-series models. I am currently a research intern at [MiniMax](https://www.minimax.io/), working on post-training for long-horizon coding agents.
 
 **Contact:** 1641225799szn@gmail.com or ieee-szn@sjtu.edu.cn · [Google Scholar](https://scholar.google.com/citations?user=JPwg5MwAAAAJ) · [LinkedIn](https://www.linkedin.com/in/zhennan-shen-188a632b6) · [X](https://x.com/ZShen0521) · [Resume]({{ "/ZhennanShen_Resume.pdf" | relative_url }})
 
