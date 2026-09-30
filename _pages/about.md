@@ -84,18 +84,21 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 # Experience
 
 ## Education
-- *The Hong Kong University of Science and Technology*, Ph.D. Student, Fall 2026 (Expected), Hong Kong, China.
+- *The Hong Kong University of Science and Technology*, Ph.D. Student, Sep 2026 – Present, Hong Kong (Advisor: Prof. May Fung).
 - *Shanghai Jiao Tong University*, B.E. in Computer Science and Engineering, Sep 2021 – Jun 2025, Shanghai, China.
 
 ## Research
-- *[HKU NLP Group](https://hkunlp.github.io/)*, Research Intern, Jul 2024 – Sep 2024, Hong Kong, China (Advisor: [Prof. Tao Yu](https://taoyds.github.io/))  
+- *[HKU NLP Group](https://hkunlp.github.io/)*, Research Intern, Jul 2024 – Sep 2024, Hong Kong (Advisor: [Prof. Tao Yu](https://taoyds.github.io/))  
 
 - *[X-LANCE Lab, SJTU](https://x-lance.github.io/)*, Research Intern, Jul 2023 – Jul 2024, Shanghai, China (Advisors: [Prof. Lu Chen](https://coai-sjtu.github.io/) & [Prof. Kai Yu](https://x-lance.github.io/kaiyu/))  
 
 ## Industry
-- [JD.com](https://corporate.jd.com/), Pretraining Team, Dec 2025 – Present, Beijing, China  
-- [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), Agent Training Intern, Mar 2025 – Dec 2025, Beijing, China  
-  *Contributed to the **[OKComputer](https://www.kimi.com/kimiplus/ok-computer)** and **[K2.5](https://www.kimi.com/blog/kimi-k2-5.html)** projects.
+- *[MiniMax](https://www.minimax.io/)*, Research Intern, Jun 2026 – Present, Shanghai, China  
+  *Post-training for long-horizon coding agents (M3.1; SWE-Marathon, NL2Repo, Frontier-SWE).*
+- *[JD.com](https://corporate.jd.com/) (JoyAI)*, Research Intern, Dec 2025 – Apr 2026, Beijing, China  
+  *Mid-training data synthesis and agent post-training for JoyAI-LLM Flash (general and coding agents).*
+- *[Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/))*, Agent Training Intern, Mar 2025 – Dec 2025, Beijing, China  
+  *Post-training and data synthesis for computer-use agents (Kimi K2.5, OKComputer).*
 
 <span class='anchor' id='honors'></span>
 # Honors & Awards
