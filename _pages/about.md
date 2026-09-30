@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-I am Zhennan Shen, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/), advised by [Prof. May Fung](https://mayrfung.github.io/). Before that, I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents**.
+I am Zhennan Shen, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/), advised by [Prof. Yi R. (May) Fung](https://mayrfung.github.io/). Before that, I received my B.E. in Computer Science and Technology from Shanghai Jiao Tong University in 2025. My research focuses on **language-model agents**.
 
 I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP](https://hkunlp.github.io/) and with [Prof. Lu Chen](https://coai-sjtu.github.io/) at the [X-LANCE Lab](https://x-lance.github.io/). In 2025, I interned at [Moonshot AI](https://www.moonshot.ai/) ([Kimi](https://www.kimi.com/en/)), contributing to the K-series models. I am currently a research intern at [MiniMax](https://www.minimax.io/), working on post-training for long-horizon coding agents.
 
@@ -29,7 +29,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 <ul class="news-list">
   <li class="news-item">
     <span class="news-date">2026.09</span>
-    Started my Ph.D. in Computer Science and Engineering at <a href="https://hkust.edu.hk/">HKUST</a>, advised by <a href="https://mayrfung.github.io/">Prof. May Fung</a>.
+    Started my Ph.D. in Computer Science and Engineering at <a href="https://hkust.edu.hk/">HKUST</a>, advised by <a href="https://mayrfung.github.io/">Prof. Yi R. (May) Fung</a>.
   </li>
   <li class="news-item">
     <span class="news-date">2026.06</span>
@@ -84,7 +84,7 @@ I have worked closely with [Prof. Tao Yu](https://taoyds.github.io/) at [HKU NLP
 # Experience
 
 ## Education
-- *The Hong Kong University of Science and Technology*, Ph.D. Student, Sep 2026 – Present, Hong Kong (Advisor: Prof. May Fung).
+- *The Hong Kong University of Science and Technology*, Ph.D. Student, Sep 2026 – Present, Hong Kong (Advisor: Prof. Yi R. (May) Fung).
 - *Shanghai Jiao Tong University*, B.E. in Computer Science and Engineering, Sep 2021 – Jun 2025, Shanghai, China.
 
 ## Research
